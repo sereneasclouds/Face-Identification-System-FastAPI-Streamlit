@@ -1,0 +1,6 @@
+venv/
+encodings_cache.pkl
+__pycache__/
+*.pyc
+*.pyw
+.env
