@@ -1,4 +1,4 @@
-# Face Identification System:FastAPI & Streamlit
+# Face Identification System: FastAPI & Streamlit
 
 A real-time **face identification application** built with **FastAPI** and
 **Streamlit**, using `face_recognition` and `dlib` for face detection and
